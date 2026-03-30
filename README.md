@@ -41,11 +41,12 @@ Instead of starting from a blank page, users answer a few structured questions a
 
 ---
 
-## ▶️ Run Locally
+## 📸 Demo
 
-```bash
-git clone https://github.com/YOUR-USERNAME/ai-proposal-generator.git
-cd ai-proposal-generator
+<img width="1680" height="925" alt="Screenshot 2026-03-29 at 2 13 15 PM" src="https://github.com/user-attachments/assets/e5ac6871-a40b-44a7-96ca-90066296853d" />
+<img width="1680" height="925" alt="Screenshot 2026-03-29 at 2 13 22 PM" src="https://github.com/user-attachments/assets/2e5c973b-8dc9-4364-8ccb-3b5771a3f936" />
 
-pip install -r requirements.txt
-streamlit run app.py
+
+
+
+
